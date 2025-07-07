@@ -1,0 +1,24 @@
+*{
+    color: #552F00;
+}
+
+h1{
+    margin: 20px;
+}
+
+body{
+    background-color: #D4A56A;
+}
+
+.card-body{
+    background-color: #D4A56A;
+    border: #D4A56A;
+}
+
+.card{
+    margin: 20px;
+    border: #552F00 5px solid;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
